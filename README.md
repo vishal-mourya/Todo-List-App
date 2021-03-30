@@ -7,9 +7,9 @@
 - One can learn how to use State Management, Provider Package, various app building architecture,User Defined Widgets,Efficiency of code, async and await and many more stuffs in this flutter App
 <br> <br>
 
-![s1](https://github.com/vishal-mourya/Todo-List-App/blob/main/images/sc1.jpeg?raw=true) <br> <br>
+![s1](https://github.com/vishal-mourya/Todo-List-App/blob/main/images/sc2.jpeg?raw=true) <br> <br>
 
-![s2](https://github.com/vishal-mourya/Todo-List-App/blob/main/images/sc2.jpeg?raw=true) <br> <br>
+![s2](https://github.com/vishal-mourya/Todo-List-App/blob/main/images/sc1.jpeg?raw=true) <br> <br>
 <br>
 
 - Still Working on Improvements
