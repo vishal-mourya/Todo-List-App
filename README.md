@@ -1,16 +1,24 @@
-# todoey_final_app
+# Todo List App - An Application built in flutter to add, update, delete your daily todo's with beautiful UI
 
-A new Flutter application.
+### About :
 
-## Getting Started
+- A Simple App which allows any user to add new task, update existing task, delete existing task your daily todo's with beautiful UI
 
-This project is a starting point for a Flutter application.
+- One can learn how to use State Management, Provider Package, various app building architecture,User Defined Widgets,Efficiency of code, async and await and many more stuffs in this flutter App
+<br> <br>
 
-A few resources to get you started if this is your first Flutter project:
+![s1](https://github.com/vishal-mourya/Todo-List-App/blob/main/images/sc1.jpeg?raw=true) <br> <br>
 
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
+![s2](https://github.com/vishal-mourya/Todo-List-App/blob/main/images/sc2.jpeg?raw=true) <br> <br>
+<br>
 
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+- Still Working on Improvements
+
+## Improving This Project
+
+If you feel like I am missing out steps, feel free to make a pull request and contribute to this project. [Github Repo](https://github.com/vishal-mourya/Todo-List-App)
+
+Would Love to Collaborate with anyone who wishes :)
+
+Thanks & Regards <br>
+[Vishal Mourya](https://www.linkedin.com/in/vishal-mourya-a4245b18b/)
